@@ -3,7 +3,7 @@
 This is a simple static website hosted using GitHub Pages for my DevOps internship.
 
 ## 🔗 Live Website
-[Click here to view](https://yourusername.github.io/github-pages-task/)
+[Click here to view]https://github.com/yourusername/github-pages-task
 
 ## 📁 Files
 - `index.html`
