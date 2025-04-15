@@ -4,6 +4,7 @@ This is a simple static website hosted using GitHub Pages for my DevOps internsh
 
 ## 🔗 Live Website
 [Click here to view]https://github.com/yourusername/github-pages-task
+https://ayeshaahmedit7.netlify.app/
 
 ## 📁 Files
 - `index.html`
